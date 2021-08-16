@@ -7,7 +7,7 @@
 | Difficulty (Points) |	Name                                              | Skills       | Completion |
 | ------------------- | ------------------------------------------------- | ------------ | ---------- |
 | Trivial (1 / flag)  | [A little something to get you started][2]        | Web          | 1 / 1      |
-| Easy (2 / flag)     | Micro-CMS v1                                      | Web          | 0 / 4      |
+| Easy (2 / flag)     | [Micro-CMS v1][4]                                 | Web          | 0 / 4      |
 | Moderate (3 / flag) | Micro-CMS v2                                      | Web          | 0 / 3      |
 | Hard (9 / flag)     | Encrypted Pastebin                                | Web, Crypto  | 0 / 4      |
 | Moderate (6 / flag) | Photo Gallery                                     | Web          | 0 / 3      |
@@ -30,3 +30,4 @@
 [1]: https://ctf.hacker101.com/ctf
 [2]: ./a_little_something_to_get_you_started
 [3]: ./postbook
+[4]: ./micro-cms_v1
