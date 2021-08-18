@@ -9,7 +9,7 @@
 | Trivial (1 / flag)  | [A little something to get you started][2]        | Web          | 1 / 1      |
 | Easy (2 / flag)     | [Micro-CMS v1][4]                                 | Web          | 4 / 4      |
 | Moderate (3 / flag) | [Micro-CMS v2][5]                                 | Web          | 2 / 3      |
-| Hard (9 / flag)     | Encrypted Pastebin[6]                             | Web, Crypto  | 1 / 4      |
+| Hard (9 / flag)     | [Encrypted Pastebin][6]                           | Web, Crypto  | 1 / 4      |
 | Moderate (6 / flag) | Photo Gallery                                     | Web          | 0 / 3      |
 | Moderate (5 / flag) | Cody's First Blog                                 | Web          | 0 / 3      |
 | Easy (4 / flag)     | [Postbook][3]                                     | Web          | 7 / 7      |
