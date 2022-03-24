@@ -18,7 +18,7 @@
 | Easy (3 / flag)     | Petshop Pro                                       | Web          | 0 / 3      |
 | Hard (7 / flag)     | Model E1337 - Rolling Code Lock                   | Web, Math    | 0 / 2      |
 | Moderate (5 / flag) | TempImage                                         | Web          | 0 / 2      |
-| Easy (2 / flag)     | H1 Thermostat                                     | Android      | 0 / 2      |
+| Easy (2 / flag)     | [H1 Thermostat][8]                                     | Android      | 2 / 2      |
 | Expert (13 / flag)  | Model E1337 v2 - Hardened Rolling Code Lock       | Math         | 0 / 1      |
 | Moderate (3 / flag) | Intentional Exercise                              | Android      | 0 / 1      |
 | Moderate (4 / flag) | Hello World!                                      | Native       | 0 / 1      |
@@ -34,3 +34,4 @@
 [5]: ./micro-cms_v2
 [6]: ./encrypted_pastebin
 [7]: ./cody-first-blog
+[8]: ./h1-thermostat
